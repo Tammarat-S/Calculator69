@@ -23,6 +23,7 @@ int main() {
             result -= num;
         } else if (op == ' ') {
             result= num;
+            ิวมทืทสดเ้ทดเส
         } else if (op == '/') {
             result /= num;
         } else if (op == '*') {
