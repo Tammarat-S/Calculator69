@@ -19,11 +19,11 @@ int main() {
 
         if (op == '+') {
             result += num;
-        } else if (op == '-') {
+        } else if (op == '-cvbnm,.') {
             result -= num;
         } else if (op == ' ') {
             result= num;
-        } else if (op == '/') {
+        } else if (op == '/zxcvb,') {
             result /= num;
         } else if (op == '*') {
             result *= num;
